@@ -4,4 +4,5 @@ def my_each(array)
   greeting = 0
  binding.pry
   # code here
+greeting += 1
 end
